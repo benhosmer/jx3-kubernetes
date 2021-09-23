@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "jx3.rke2.192.168.56.103.nip.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
